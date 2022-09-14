@@ -8,7 +8,7 @@
 ## Conatact information:
 * __Phone:__ +37529 28-87-807
 * __Email:__  work.an.kon@gmail.com
-* __Telegram:__  anastasiaa_kon
+* __Telegram:__  @anastasiaa_kon
 
 =====================================================================
 
