@@ -248,6 +248,15 @@ footer img{
     height: 100%;
     display: block;
 }
+.footer__container {
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    gap:60px;
+}
+.footer__github {
+    color:#1E1E1E;
+}
 @keyframes rotate {
     to {
       -webkit-transform: rotate(-360deg);
@@ -261,6 +270,10 @@ footer img{
     }
     .project a:hover > img {
         transform: scale(1.1);
+        transition: all 0.3s ease-in-out;
+    }
+    .footer__github:hover {
+        color:#3215E0;
         transition: all 0.3s ease-in-out;
     }
   }
